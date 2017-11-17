@@ -9,7 +9,7 @@ There is also a glow effect on the screen added to the image.</br>
 Next version 1.2 will propose some added element in the image (maybe interactive?)</br>
 Like some women around the swimming pool, an animal in the escalator and some christmas light coming on the first plan.</br>
 
-1.3 will add a text stunning effect and add some interactive elements.</br>
+1.3 will add a text stunning effects and add somes interactives elements.</br>
 ##
 Please find here a link of this page (current version 1.1)</br>
 !(https://thankuniverse.github.io/404-Page/)
