@@ -3,7 +3,6 @@ body{
   background-attachment:fixed;
   background-size: cover;
   background-position: bottom;
-
 }
 
 .BigTxt{
@@ -17,6 +16,16 @@ body{
   margin-bottom: auto;
   display: block;
   padding: 0px;
+
+}
+
+h1{
+  margin: 0px 0px 0px 0px;
+}
+
+p{
+  margin: 0px 0px 0px 0px;
+  color: #E8143B;
 }
 
 .SmallTxt{
@@ -29,12 +38,11 @@ body{
   margin-top: auto;
   margin-bottom: auto;
   padding: 0px;
-/*  margin-left: 765px;
-  margin-top: 470px;*/
 }
+
 .link{
   font-family: 'Roboto Mono', monospace;
-  color : #E8143B;
+
   font-size: 20px;
   text-align: center;
   margin-left: auto;
@@ -42,12 +50,16 @@ body{
   margin-top: auto;
   margin-bottom: auto;
 }
-/*
-#textAnim h1 {
-
-  transition-property: all;
-  transition-duration: 4s;
-  transition-timing-function: ease;
-  color: white;
+/*Tests sur le lien*/
+a {
+  text-decoration: underline;
+  color: #E8143B;
 }
-*/
+a:visited {
+  color: #E8143B;
+}
+a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: red;
+  
+}
