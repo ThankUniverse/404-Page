@@ -6,8 +6,11 @@ The purpose is to twist the mind of the visitor in a way for him to understand t
 A pink-redish 404 text appear like a "code-bar" (only visible on windows Edge actually)
 There is also a glow effect on the screen added to the image.
 #
-Next version 1.2 will propose some added element in the image (maybe interactive?) like some women around the swimming pool, 
-an animal in the escalator and some christmas light coming on the first plan.
-1.3 will add a text stunning effect and add some interactive elements.
+Next version 1.2 will propose some added element in the image (maybe interactive?) 
+Like some women around the swimming pool, 
+An animal in the escalator and some christmas light coming on the first plan.
 
-Please find here a link of this page (current version 1.1)!(https://thankuniverse.github.io/404-Page/)
+1.3 will add a text stunning effect and add some interactive elements.
+##
+Please find here a link of this page (current version 1.1)
+!(https://thankuniverse.github.io/404-Page/)
