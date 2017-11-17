@@ -22,12 +22,12 @@ body{
 h1{
   margin: 0px 0px 0px 0px;
 }
-
+/*Definition couleur message Error Error!*/
 p{
   margin: 0px 0px 0px 0px;
   color: #E8143B;
 }
-
+/*Police et positionnement SmallTxt*/
 .SmallTxt{
   font-family: 'Roboto Mono', monospace;
   color : #E8143B;
@@ -39,7 +39,7 @@ p{
   margin-bottom: auto;
   padding: 0px;
 }
-
+/*Police et positionnement lien*/
 .link{
   font-family: 'Roboto Mono', monospace;
 
@@ -58,6 +58,7 @@ a {
 a:visited {
   color: #E8143B;
 }
+
 a:hover, a:focus, a:active {
   text-decoration: none;
   color: red;
