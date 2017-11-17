@@ -4,7 +4,7 @@ body{
   background-size: cover;
   background-position: bottom;
 }
-
+/*Mise en forme texte 404 effet code-barre*/
 .BigTxt{
   font-family: 'Libre Barcode 39 Text', cursive;
   color : #E8143B;
@@ -18,7 +18,7 @@ body{
   padding: 0px;
 
 }
-
+/*Suppression des marges/espaces autour de l'element texte 404*/
 h1{
   margin: 0px 0px 0px 0px;
 }
@@ -50,7 +50,7 @@ p{
   margin-top: auto;
   margin-bottom: auto;
 }
-/*Tests sur le lien*/
+/*Lien et effet de passage*/
 a {
   text-decoration: underline;
   color: #E8143B;
@@ -61,5 +61,5 @@ a:visited {
 a:hover, a:focus, a:active {
   text-decoration: none;
   color: red;
-  
+
 }
