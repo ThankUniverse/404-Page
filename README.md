@@ -1,6 +1,6 @@
 #   404-Page
 #
-A Page 404 with an image modified on Photoshop
+A Page 404 with an image modified on Photoshop</br>
 The picture have an escalator showed upside-down with a screen facing a little point of water.
 The purpose is to twist the mind of the visitor in a way for him to understand that something turns wrong on the page.
 A pink-redish 404 text appear like a "code-bar" (only visible on windows Edge actually)
